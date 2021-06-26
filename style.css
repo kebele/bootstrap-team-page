@@ -14,6 +14,9 @@ body{
 
 }
 .card, .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     box-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
     border: none;
     outline: none;
